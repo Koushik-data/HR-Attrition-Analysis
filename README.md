@@ -80,7 +80,7 @@ AVERAGE('HR Data'[Years At Company])
 
 ## 🖥️ Dashboard Preview
 
- src="<img width="1457" height="805" alt="HR-Attrition-PowerBI-Dashboard" src="https://github.com/user-attachments/assets/4e768a0a-3907-469a-aa39-ce5666fff8fe" />
+ <img width="1457" height="805" alt="HR-Attrition-PowerBI-Dashboard" src="https://github.com/user-attachments/assets/4e768a0a-3907-469a-aa39-ce5666fff8fe" />
 
 
 ---
