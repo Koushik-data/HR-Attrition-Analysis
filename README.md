@@ -99,7 +99,12 @@ This dashboard helps organizations:
 Koushik Das
 
 Data Analyst | Power BI | SQL | Excel | Python
+# 📞 Contact
 
+- 📧 Email: datawithkoushik@gmail.com
+- 📱 Phone: +91 6290610739
+- 💼 LinkedIn: https://www.linkedin.com/in/koushik-das-71a2a8220/
+- 🌐 GitHub: https://github.com/Koushik-data
 ---
 
 ## ⭐ Project Outcome
